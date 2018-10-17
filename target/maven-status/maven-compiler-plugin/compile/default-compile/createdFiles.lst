@@ -1,6 +1,11 @@
 com\models\FileUploadForm.class
 com\spring\configurations\SpringWebConfig.class
 com\controllers\HomeController.class
+com\dao\FileUploadDao.class
+com\utils\LeerExcel.class
 com\spring\configurations\SpringWebApplicationInitializer.class
+com\dao\BaseDAO.class
+com\utils\FileUploadService.class
 com\controllers\AboutController.class
+com\models\ExcelTemplateVO.class
 com\controllers\CargaArchivosController.class
